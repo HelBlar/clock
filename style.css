@@ -1,0 +1,30 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+body{
+  background-color: lightgrey;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+}
+header{
+  font-size: 34px;
+  margin-left: auto;
+  margin-right:auto;
+  padding: 30px;
+  width: 60%;
+  height: 30px;
+  background-color: red;
+  border: solid 3px;
+}
+#clock{
+  color:red;
+  font-size: 34px;
+  margin-left: auto;
+  margin-right:auto;
+  padding: 30px;
+  width: 60%;
+  height: 30px;
+  background-color: #000;
+  border: solid 3px #000;
+}
